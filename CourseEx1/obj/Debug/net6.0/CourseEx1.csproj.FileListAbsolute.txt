@@ -1,0 +1,15 @@
+C:\temp\projetos\CourseEx1\CourseEx1\bin\Debug\net6.0\CourseEx1.exe
+C:\temp\projetos\CourseEx1\CourseEx1\bin\Debug\net6.0\CourseEx1.deps.json
+C:\temp\projetos\CourseEx1\CourseEx1\bin\Debug\net6.0\CourseEx1.runtimeconfig.json
+C:\temp\projetos\CourseEx1\CourseEx1\bin\Debug\net6.0\CourseEx1.dll
+C:\temp\projetos\CourseEx1\CourseEx1\bin\Debug\net6.0\CourseEx1.pdb
+C:\temp\projetos\CourseEx1\CourseEx1\obj\Debug\net6.0\CourseEx1.csproj.AssemblyReference.cache
+C:\temp\projetos\CourseEx1\CourseEx1\obj\Debug\net6.0\CourseEx1.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\CourseEx1\CourseEx1\obj\Debug\net6.0\CourseEx1.AssemblyInfoInputs.cache
+C:\temp\projetos\CourseEx1\CourseEx1\obj\Debug\net6.0\CourseEx1.AssemblyInfo.cs
+C:\temp\projetos\CourseEx1\CourseEx1\obj\Debug\net6.0\CourseEx1.csproj.CoreCompileInputs.cache
+C:\temp\projetos\CourseEx1\CourseEx1\obj\Debug\net6.0\CourseEx1.dll
+C:\temp\projetos\CourseEx1\CourseEx1\obj\Debug\net6.0\refint\CourseEx1.dll
+C:\temp\projetos\CourseEx1\CourseEx1\obj\Debug\net6.0\CourseEx1.pdb
+C:\temp\projetos\CourseEx1\CourseEx1\obj\Debug\net6.0\CourseEx1.genruntimeconfig.cache
+C:\temp\projetos\CourseEx1\CourseEx1\obj\Debug\net6.0\ref\CourseEx1.dll
